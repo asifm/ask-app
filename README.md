@@ -1,13 +1,15 @@
 # Ask Diary
 
 ## An app to teach and help practice the techniques of effectual asking
-Every aspiring and nascent enentreprene would benefit from improving their asking skills. We're talking about a specific kind of asks — effectual asks, which is a powerful concept, and is especially of benefit to aspiring and nascent entrepreneurs. This app will help eentreprneurs
+Every aspiring and nascent enentreprene would benefit from improving their asking skills. We're talking about a specific kind of asking — effectual asking — which is a powerful concept, and is especially of benefit to new entrepreneurs. 
+
+Effectual asking is a central component of the theory of [effectuation](http://www.effectuation.org).
+
+This app will help eentreprneurs
 - learn the concept of effectual ask
 - track their effectual asks
 - practice how to ask effectually
 - share their effectual asks with peers for feedback
-
-Effectual asking is a central component of the theory of [effectuation](http://www.effectuation.org).
 
 ## Contribution
 - Teaching material: Various effectuation scholars and teachers. In particular, the app uses the *Technique Cards*, a collection of helpful advice prepared by (todo: find their names). We gratefully acknowledge their contribution. The paper version of the cards is [available to entrepreneurship instructors] (http://www.effectuation.org/?page_id=809)
