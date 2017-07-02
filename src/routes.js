@@ -1,14 +1,10 @@
 export default [
-  {
-      path: '/about/',
-      component: require('./pages/about.vue')
-  },
-  {
-      path: '/form/',
-      component: require('./pages/form.vue')
-  },
-  {
-      path: '/dynamic-route/blog/:blogId/post/:postId/',
-      component: require('./pages/dynamic-route.vue')
-  }
-]
+    {
+        path: '/techniqueDetail/:subTechnique/:techniqueDetail',
+        component: require('./pages/techniqueDetail.vue')
+    },
+    {
+        path: '/aboutUs/',
+        component: require('./pages/aboutUs.vue')
+    },
+];
