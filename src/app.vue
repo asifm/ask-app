@@ -66,7 +66,7 @@
   export default {
     data() {
       return {
-        appName: "The Ask",
+        appName: "Ask Diary",
         mainTheme: "theme-indigo"
       }
     },

@@ -1,6 +1,6 @@
 export default [
     {
-        path: '/techniqueDetail/:subTechnique/:techniqueDetail',
+        path: '/techniqueDetail/:index/:subIndex',
         component: require('./pages/techniqueDetail.vue')
     },
     {
