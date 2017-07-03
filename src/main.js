@@ -37,7 +37,6 @@ new Vue({
     /* Uncomment to enable Material theme: */
     material: true,
     routes: Routes,
-    template7Pages: true
   },
   // Register App Component
   components: {

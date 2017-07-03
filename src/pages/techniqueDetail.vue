@@ -41,8 +41,8 @@
 </template>
 
 <script>
-    import techniquesData from "./data.json"
-
+    import techniquesData from "./techniquesData.json"
+    
     export default {
         mounted() {
         },

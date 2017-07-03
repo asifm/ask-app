@@ -2,8 +2,8 @@
   <!-- App -->
   <div id="app">
 
-    <why-ask></why-ask>
-    <about-us></about-us>
+    <left-panel></left-panel>
+    <right-panel></right-panel>
 
     <!-- Main Views -->
     <f7-views :class="mainTheme">
@@ -15,7 +15,7 @@
           </f7-nav-left>
           <f7-nav-center sliding>{{ appName }}</f7-nav-center>
           <f7-nav-right>
-            <f7-link icon="icon-bars" open-panel="right"></f7-link>
+            <f7-link icon="icon-plus" open-panel="right"></f7-link>
           </f7-nav-right>
         </f7-navbar>
         <!-- Pages -->
@@ -28,26 +28,18 @@
               </f7-nav-left>
               <f7-nav-center sliding>{{ appName }}</f7-nav-center>
               <f7-nav-right>
-                <f7-link icon="icon-bars" open-panel="right"></f7-link>
+                <f7-link icon="icon-plus" open-panel="right">
+                </f7-link>
               </f7-nav-right>
             </f7-navbar>
 
-            <!--Top level techiniques with sub-level with accordion toggle-->
+            <!--Top level techiniques with sub-level exposed through accordion toggle-->
             <techniques-top></techniques-top>
 
-            <f7-block>
-              <f7-grid>
-                <f7-col width="50">
-                  <f7-button big raised open-panel="left">Why Ask?</f7-button>
-                </f7-col>
-                <f7-col width="50">
-                  <f7-button big raised open-panel="right">Random</f7-button>
-                </f7-col>
-              </f7-grid>
-            </f7-block>
-            <f7-fab color="green">
-              <f7-icon icon="icon-plus"></f7-icon>
+            <f7-fab color="white">
+              <f7-link open-panel="left"><i class="material-icons md-36">fingerprint</i></f7-link>
             </f7-fab>
+
           </f7-page>
         </f7-pages>
       </f7-view>
@@ -59,8 +51,8 @@
 </template>
 
 <script>
-  import whyAsk from "./pages/whyAsk.vue"
-  import aboutUs from "./pages/aboutUs.vue"
+  import leftPanel from "./pages/leftPanel.vue"
+  import rightPanel from "./pages/rightPanel.vue"
   import techniquesTop from "./pages/techniquesTop.vue"
 
   export default {
@@ -71,8 +63,8 @@
       }
     },
     components: {
-      'why-ask': whyAsk,
-      'about-us': aboutUs,
+      'left-panel': leftPanel,
+      'right-panel': rightPanel,
       'techniques-top': techniquesTop
     }
   }
