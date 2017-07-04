@@ -1,6 +1,22 @@
 <template>
     <div>
+
         <f7-block>
+            <f7-block>
+                <f7-grid>
+                    <f7-col>
+                        <f7-button raised style="background-color:#efefef" @click="getRandomCard()" :href="randomCard">
+                            Random card
+                        </f7-button>
+                    </f7-col>
+                    <f7-col>
+                        <f7-button raised style="background-color:#efefef" href="/aboutCards/">
+                            How to use
+                        </f7-button>
+                    </f7-col>
+                </f7-grid>
+            </f7-block>
+
             <f7-accordion v-for="(technique, index) in techniques" :key="technique.top">
                 <f7-accordion-item>
                     <f7-accordion-toggle>
@@ -11,7 +27,7 @@
                     </f7-accordion-toggle>
                     <f7-accordion-content>
                         <f7-list>
-                            <f7-list-item :style="{ 'color': colors.bgColors[index % 7]}" v-for="subTechnique, subIndex in technique['sub']" :key="subTechnique"
+                            <f7-list-item :style="{ 'color': colors.fgColors[index % 7]}" v-for="subTechnique, subIndex in technique['sub']" :key="subTechnique"
                                 :link="'/techniqueDetail/' + index + '/' + subIndex" :title="subTechnique">
                             </f7-list-item>
                         </f7-list>
@@ -19,20 +35,37 @@
                 </f7-accordion-item>
             </f7-accordion>
         </f7-block>
+
     </div>
 </template>
 
 <script>
-    import techniquesData from "./techniquesData.json"
-    import colorsData from "./colorsData.json"
+    import myMixins from "../mixins"
+
+    import techniquesData from "../data/techniquesData.json"
 
     export default {
         data() {
             return {
-                techniques: techniquesData,
-                colors: colorsData
+                fruits: ['apple', 'banana', 'orange'],
+                randomCard: '',
+                techniques: techniquesData
             }
-        }
+        },
+        methods: {
+            getRandomCard() {
+                let numTopTechniques = this.techniques.length
+                let randomTopIndex = Math.floor(Math.random() * numTopTechniques)
+                let numSubTechniques = this.techniques[randomTopIndex].sub.length
+                let randomSubIndex = Math.floor(Math.random() * numSubTechniques)
+
+                this.randomCard = '/techniqueDetail/' + randomTopIndex + '/' + randomSubIndex
+            }
+        },
+        mounted() {
+            this.getRandomCard();
+        },
+        mixins: [myMixins]
     }
 
 </script>

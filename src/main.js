@@ -1,14 +1,15 @@
-// Import Vue
+// Import Vue, F7, Firebase
 import Vue from 'vue';
 
-// Import F7
+// Init F7 Vue Plugin
 import Framework7 from 'framework7';
-
-// Import F7 Vue Plugin
 import Framework7Vue from 'framework7-vue';
 
+Vue.use(Framework7Vue);
+// Vue.use(VueFire);
+
 // Import F7 iOS Theme Styles
-// import Framework7Theme from 'framework7/dist/css/framework7.ios.min.css'
+// import Framework7Theme from 'framework7/disyat/css/framework7.ios.min.css'
 // import Framework7ThemeColors from 'framework7/dist/css/framework7.ios.colors.min.css'
 // OR for Material Theme:
 import Framework7Theme from 'framework7/dist/css/framework7.material.min.css';
@@ -24,11 +25,8 @@ import Routes from './routes.js';
 // Import App Component
 import App from './app';
 
-// Init F7 Vue Plugin
-Vue.use(Framework7Vue);
-
 // Init App
-new Vue({
+var vm = new Vue({
   el: '#app',
   template: '<app/>',
   // Init Framework7 by passing parameters here

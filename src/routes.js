@@ -4,7 +4,7 @@ export default [
         component: require('./pages/techniqueDetail.vue')
     },
     {
-        path: '/aboutUs/',
-        component: require('./pages/aboutUs.vue')
+        path: '/aboutCards/',
+        component: require('./pages/aboutCards.vue')
     },
 ];
