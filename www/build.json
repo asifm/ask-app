@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "C:/Users/mehedia/android-keystore.jks",
+            "storePassword": "iha1Tn)mak",
+            "alias": "key0",
+            "password": "iha1Tn)mak",
+            "keystoreType": "jsk"
+        },
+        "release": {
+            "keystore": "C:/Users/mehedia/android-keystore.jks",
+            "storePassword": "iha1Tn)mak",
+            "alias": "key0",
+            "password": "iha1Tn)mak",
+            "keystoreType": "jsk"
+        }
+    }
+}
