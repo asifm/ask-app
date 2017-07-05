@@ -15,8 +15,8 @@
                 "process": {
                     "head": "",
                     "list": [
-                        "List the general outcomes you would find satisfying (creating a new product, establishing a new company, changing the world, being financially independent …)",
-                        "List the general outcomes that would not interest you (an offer of employment within an existing firm, not being able to pay the rent, …)"
+                        "List the general outcomes you would find satisfying (creating a new product, establishing a new company, changing the world, being financially independent …).",
+                        "List the general outcomes that would not interest you (an offer of employment within an existing firm, not being able to pay the rent …)."
                     ],
                     "foot": "This is not about transaction specific goals such as selling a particular product or raising a set amount of investment. This is about setting the criteria in advance for possibilities you will have to evaluate in the moment of the ask."
                 }
@@ -36,21 +36,29 @@
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Why do other people start? Where do other people start?",
+                "explain": "Gain insights from the pre-commitments other entrepreneurs have made to themselves by inventorying the reasons other people got going on their own firms.  Not the stories they tell after the fact, but the truth.",
                 "process": {
                     "head": "",
-                    "list": [],
-                    "foot": ""
+                    "list": [
+                        "Go to a local incubator, and Ask people why they are there and how they got there",
+                        "Ask 5 people you know who have nice steady jobs why they would start a company.",
+                        "After you get someone’s initial answer, ask “why?” and maybe “why?” again to dig down and get to the truth."
+                    ],
+                    "foot": "Did you know that Pierre Omidyar made the first version of eBay simple so he and his partner could go mountain biking and the site would take care of itself? He was probably more clear about how eBay should work for him than what it would ultimately be!"
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "What does it take to create work that works for me?",
+                "explain": "Pre-commitments should incorporate your aspirations, and be realistic about the time and effort it may take to attain them.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Begin with the aspirations you might have created in consideration of your high level goals:",
+                    "list": [
+                        "See if you can find examples of people who have accomplished something similar.",
+                        "How long have they been at it, really?",
+                        "What compromises have they had to make along the way?"
+                    ],
+                    "foot": "There are individuals who have created their own 4-hour work week, but for most it took more than 4 hours to get there."
                 }
             }
         ]
@@ -67,48 +75,76 @@
         ],
         "details": [
             {
-                "main": "",
-                "explain": "",
+                "main": "Make a list of all people in your reach, who could be stakeholders of you project.",
+                "explain": "Starting with who you know already has a great advantage: You have a starting point already and you don´t have to build a relationship from scratch.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Go inside out when doing the inventory:",
+                    "list": [
+                        "Who in your family might be interested in your project? Which close friends could you reach out to?",
+                        "Work your way through the contact list on your mobile phone. Who could you call?",
+                        "Consider your (former) peer from work, from the university, from your sports team.",
+                        "Work your way to people you know 2nd degree.",
+                        "When done with the initial list, ask yourself: What kind of contribution can you imagine from each of these people?"
+                    ],
+                    "foot": "Get back to the inventory, whenever you are ready to Ask. When picking up the phone, consider your affordable loss. You don´t have to start your Ask-journey with your former boss, if you can practice in more relaxed relationships."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Use social networking sites to increase the range of potential stakeholders.",
+                "explain": "Sites like LinkedIn allow you to review peoples’ work and educational experience – each a possible starting point for an Ask.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Start with the obvious, but don't stop there. Look for people who:",
+                    "list": [
+                        "Have experience in a firm that is related to the area where you want to start.",
+                        "Have education that would complement yours for the area where you want to start.",
+                        "List mentoring on their profile.",
+                        "Are connected to the people you know."
+                    ],
+                    "foot": "Develop one good idea on why you should connect.  Send them a LinkedIn request.  See where the conversation goes."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Give people the opportunity to opt-in.",
+                "explain": "Find ways to let people know about what you are doing, so that they can come to you with their own Ask to get involved somehow.",
                 "process": {
                     "head": "",
-                    "list": [],
-                    "foot": ""
+                    "list": [
+                        "Create an email list of all the people you know who might be interested.",
+                        "Send them a note telling them what you are starting to do, telling them you will do a regular email update on your activities, and giving them the option to opt-out.",
+                        "Set yourself a calendar reminder to religiously send out a regular update every (month, quarter - whatever).",
+                        "Each note, share some progress you’ve made or some news of relevance to what you are doing – and maybe let people know what you are currently looking for."
+                    ],
+                    "foot": "Blogging and micro-blogging (Twitter) are great vehicles to achieve the same thing."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Don’t constrain people to their current relationship with you.",
+                "explain": "Give the people you already work with opportunities to increase their participation with you.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "As you interact with people who are already engaged with your project, ask yourself questions such as the following?",
+                    "list": [
+                        "Might your customer want to also be your investor?",
+                        "Might your landlord be able to use your product or service?",
+                        "Might the company next door to you be interested in sharing (Internet access, manufacturing capacity, …)?",
+                        "Might your supplier offer you better terms if you could offer them your product?"
+                    ],
+                    "foot": "Each of these possibilities can form the basis of a specific or an open-ended ask."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Find ways to increase the range of people you know.",
+                "explain": "The more different people you talk with, the more opportunities you have to initiate the Ask.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Do things that bring you into contact with new people:",
+                    "list": [
+                        "Initiate a block party in your neighborhood.",
+                        "Go to a local makerspace and try out a 3D printer.",
+                        "Join a local Toastmasters.",
+                        "Take your dog to the dog park.",
+                        "Talk to people you sit next to in the bus / train / airport …",
+                        "Visit a TEDx event in your area and use the breaks"
+                    ],
+                    "foot": "Self-selected stakeholders come in a variety of forms, so be open to the avenues that will let you talk with them."
                 }
             }
         ]
@@ -125,47 +161,70 @@
         ],
         "details": [
             {
-                "main": "",
-                "explain": "",
+                "main": "Make the connection between your interest and the person you plan to talk with.",
+                "explain": "Create a story clear enough to draw someone in, broad enough to let them determine how they might collaborate with you.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "As you create your story, think about the other person:",
+                    "list": [
+                        "Why are they willing to talk with you in the first place?",
+                        "What drives them? What are they passionate about? What nags them?",
+                        "What might be their motivation in getting involved with a new project?",
+                        "How does their experience align with what you want to do?"
+                    ],
+                    "foot": "Remember, you can always stitch together a new narrative if the first one doesn’t fit, so think of this only as a starting point of a conversation. And if you don’t have a good intuition on an appealing narrative – consider starting with a more open Ask that gives the other person the opportunity to give you a narrative!"
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Ask someone to test your Ask.",
+                "explain": "Find a friend willing to role play your Ask with you so you can try your story and see possible paths.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Encourage your friend to:",
+                    "list": [
+                        "Make sense of the background of the person you plan to talk with.",
+                        "Take the conversation into unexpected directions.",
+                        "Give you clear feedback when you are uncomfortably direct, or are too ambiguous.",
+                        "Give you clear feedback when you are to vague or fluffy."
+                    ],
+                    "foot": "There is no perfection in this process, but it is useful to have some ideas for questions, answers and directions the conversation might go."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "You think you need money. But you really need money for something. Would it be easier for someone to give you the something directly?",
+                "explain": "After a successful entrepreneur presented in class, two of the students asked him to invest in their venture. When asked what they needed the money for, they told him they needed to fly around the world to promote their effort. Instead of money, he offered the students his (many and unused) frequent flier miles.",
                 "process": {
                     "head": "",
-                    "list": [],
-                    "foot": ""
+                    "list": [
+                        "Think about what you actually need.",
+                        "Think about who might have what you need, and whether it might represent “affordable loss” for that person.",
+                        "Start the ask directly with what you need."
+                    ],
+                    "foot": "In addition to it being easier to provide their slack resources than their money to your effort, sharing resources also helps bring a stakeholder closer to your effort."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Many people are afraid to ask for something unless they have something to offer in return.",
+                "explain": "In fact, when asked, many people are happy to offer something without (the expected) strings attached. The person you ask for time/space in their factory may be much more interested in simply seeing what you do with it than in money or equity in your venture.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Remember:",
+                    "list": [
+                        "You don’t need the quid. You only need what the quid can buy or where it can lead you next",
+                        "You don’t need the quo. Let people tell you if they want a quo and what that might be",
+                        "You definitely don’t need to sweat the “prop” – trust the other person to decide whether it is worth their while to pitch in"
+                    ],
+                    "foot": "During the interaction, be open to asks you are getting as well. Even if you start without the quid pro quo, the person you are asking might want something in return. But it probably wont be something you could have guessed in advance."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Some people talk a lot about their project but forget to ask.",
+                "explain": "If you want others to contribute to your project, you got to let them know. “Beating around the bushes” might just not be enough if you want more than the others limited attention.",
                 "process": {
                     "head": "",
-                    "list": [],
+                    "list": [
+                        "Review conversations you recently had about your project. Did you place an ask? If not, why didn’t you?",
+                        "Think about your next conversation ahead: Do you really want to ask for something?",
+                        "Prepare by writing down at least three sentences containing an appropriate ask for the conversation ahead.",
+                        "After the conversation: Write down your experiences. How did you feel before/after asking? What was the outcome? What did you learn for the next conversation?"
+                    ],
                     "foot": ""
                 }
             }
@@ -182,39 +241,58 @@
         ],
         "details": [
             {
-                "main": "",
-                "explain": "",
+                "main": "Come up with a concrete Ask. Also create a hierarchy of backup Asks.",
+                "explain": "Based on your preparation work, think about the most relevant thing you could Ask a specific someone for. Then have a couple of backup Asks in case you need to pivot.",
                 "process": {
                     "head": "",
-                    "list": [],
-                    "foot": ""
+                    "list": [
+                        "Match your interest with the means of another individual to create a specific Ask that matches the two.",
+                        "Could be an Ask for advice, mentorship, an introduction to other people, or an investment.",
+                        "Start brief and work with the responses you get. Don’t talk the others ear off.",
+                        "Be ready to pivot the conversation if your specific Ask doesn’t hit the mark."
+                    ],
+                    "foot": "The important part of starting specific is the starting part. It’s a specific way to open a conversation, not to finish one."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Paint your Ask on a big canvas.",
+                "explain": "Initiate the conversation by drawing on the interest and expertise of the person you are talking with.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Find some big open questions that can lead to a discussion of collaboration:",
+                    "list": [
+                        "Where do you see people making the most money twenty years from now?",
+                        "If you were Asked to solve climate change today, how would you get started?",
+                        "What is the most creative new business model you have seen in the last year?"
+                    ],
+                    "foot": "You never know where this is going to go, so be sure to remain flexible and ultimately bring the conversation to an Ask for something."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Bring your colleague into your Ask.",
+                "explain": "There is an expectation that we have to have all the answers – have all the problems already solved. But once you do have all the answers, there is no room to let another person co-create with you. Building solutions together also enables you to build empathy.",
                 "process": {
                     "head": "",
-                    "list": [],
-                    "foot": ""
+                    "list": [
+                        "Open with: 'If you were me, how would you …'",
+                        "Open with: 'Given I don’t know/have this, how should I …'",
+                        "Remember to think 'yes-and' instead of 'yes-but'.",
+                        "Remember you want to co-create, not argue."
+                    ],
+                    "foot": "Get people to think with you  Leverage your weaknesses. Lay out reasons for “no” and take them away one by one. And include people on your journey."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Buy-in is better than sellin’.",
+                "explain": "People don’t want to invest in your vision or your idea, They want to invest in their vision of your idea. Think how you can build psychological and emotional ownership.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Find ways to let people take some form of ownership in the project:",
+                    "list": [
+                        "Ask them what they have already done on things related to your Ask.",
+                        "If you want them to be on your board, ask them about how to put together a board.",
+                        "Show them how they can have control over their role and tasks going forward.",
+                        "Make explicit how they can make their roles and tasks and investments meaningful in ways other than economic or the obvious."
+                    ],
+                    "foot": "When people feel that they have some control and responsibility for an initiative, their commitment to it increases dramatically."
                 }
             }
         ]
@@ -230,39 +308,57 @@
         ],
         "details": [
             {
-                "main": "",
-                "explain": "",
+                "main": "You can pester, but don’t be a pest.",
+                "explain": "Sometimes the ask does not come together in a neat outcome. That is no reason to let your relationship with the person you asked disappear completely.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "If you are not making progress in your conversation:",
+                    "list": [
+                        "Try to think about how much time you need to accomplish something that might make this person more open to working with you.",
+                        "Explicitly ask permission to contact them in a (week, month, year) with an update about what you are doing.",
+                        "Ask for a good time and place to continue the conversation.",
+                        "Make good. Set a reminder in your calendar and follow up in the time frame you said you would."
+                    ],
+                    "foot": "The difference between getting permission to contact someone again versus contacting them again out of the blue is the difference between conversation and pestering."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Remember, you can Ask for anything.",
+                "explain": "As the conversation progresses, you will get a sense of the level of interest of your colleague, as well as where they can help you most.  You are free to change the Ask during the conversation.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Beyond money and resources, you can Ask for:",
+                    "list": [
+                        "Collaboration on a project.",
+                        "Advice or mentorship.",
+                        "An endorsement for your project.",
+                        "A referral to somebody else."
+                    ],
+                    "foot": "Be creative!  And though not required upfront, be prepared to have an offer as well. It doesn’t have to be anything grandiose.  It could be a seat on an advisory board, an honorary business card, or a first edition of the product. These small gestures can bring all sorts of new commitments."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "The most important part of the Ask might not be the Asking.",
+                "explain": "Listen not only for what people are saying but what they are not saying. Or what they are saying that you think maybe irrelevant to your venture.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "From research on counselling and conflict resolution, there is a general process for active listening.",
+                    "list": [
+                        "Comprehending:  Creating a shared meaning or a shared sense of understanding about the project and each parties’ interests.",
+                        "Retaining:  Making sure to identify the key issues so that they stay present during the interaction.",
+                        "Responding:  Whether simply acknowledging the other person or asking encouraging follow-on questions, interaction is a key to active listening."
+                    ],
+                    "foot": "Remember that active listening happens with more than just your ears. Body language and gestures can also help you to draw another person’s ideas out and to communicate well with them."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Rethink your ideas with the person you are talking with.",
+                "explain": "Re-form, de-form, scale up and invert your own ideas, transforming them with those of the person you are talking with to generate something valuable and interesting to both of you.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Beyond money and resources, you can Ask for:",
+                    "list": [
+                        "Incorporate the interests of your colleague.",
+                        "Incorporate the means of your colleague.",
+                        "Incorporate the constraints of your colleague."
+                    ],
+                    "foot": "For example, if you are a programmer talking with an artist, you need to be as open to computer generated art as you are to authoring software. Remember that nothing is sacred or set in stone.  You already know your own constraints and means and interests, so use as many transformations as you can to transform some new ideas."
                 }
             }
         ]
@@ -278,39 +374,54 @@
         ],
         "details": [
             {
-                "main": "",
-                "explain": "",
+                "main": "Make commitment real.",
+                "explain": "If you Ask well, someone will say yes. When they do, turn the Ask into something real with a commitment",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "If someone says yes to:",
+                    "list": [
+                        "Collaboration on a project:  Set a date to get together and start working.",
+                        "Advice or mentorship:  Agree on the frequency and set the first meeting.",
+                        "Introductions to more people:  Ask how these introductions will be made."
+                    ],
+                    "foot": "Keep in mind that all these require commitment on your part too.  And that’s what makes it work. Even if they say no, you can ask what it would take for them to say yes or why they said no. Every no is a learning opportunity and every yes is a potential commitment."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "Prove your Ask.",
+                "explain": "Sometimes, the person you are talking with needs to see whether you are real before they will make a commitment.  Bind your commitment to theirs.",
                 "process": {
                     "head": "",
-                    "list": [],
-                    "foot": ""
+                    "list": [
+                        "Agree on what both you and your colleague can contribute to your project.",
+                        "Offer a milestone you can achieve.",
+                        "Gain commitment from your colleague that once you have contributed, they will too."
+                    ],
+                    "foot": "This kind of arrangement is common even in financing negotiations, where a potential funder wants to see (for instance) a paying customer before committing an investment."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "One of the first lessons amateur sales people learn is to “talk baseball” (change the topic) as soon as they have a commitment.",
+                "explain": "It is easy, as part of a discussion, to gain a commitment from a partner, and then as the conversation continues, talk yourself or them out of it.",
                 "process": {
                     "head": "",
-                    "list": [],
-                    "foot": ""
+                    "list": [
+                        "Look for that moment of commitment.",
+                        "Be ready to summarize it if you feel there might be any ambiguity.",
+                        "Have another question on a different topic ready to follow your summary."
+                    ],
+                    "foot": "This doesn’t mean that once you have one commitment that the conversation is done. Its only to make sure the commitment you reach stays real."
                 }
             },
             {
-                "main": "",
-                "explain": "",
+                "main": "If the ask is not successful – there is still a way to exit with some positive outcome.",
+                "explain": "Think about how both you and the person you are talking with can exit the conversation with some kind of satisfaction of having made a little bit of progress.",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "If you find yourself reaching the end of the dialog without a good direction for a commitment, consider:",
+                    "list": [
+                        "Asking for a name of someone else to talk with.",
+                        "Asking for an introduction to a company or product that your contact knows which might help you in some way."
+                    ],
+                    "foot": "These also provide you with an opportunity to follow up with the person you’re talking with – though be sure to get “Permission to Pester”!"
                 }
             }
         ]
@@ -323,12 +434,17 @@
         ],
         "details": [
             {
-                "main": "",
-                "explain": "",
+                "main": "You reached a commitment – now play the game to the rules.",
+                "explain": "When you got somebody on board of your project, you want to make sure they stay on board. This is much about building trust and confidence!",
                 "process": {
-                    "head": "",
-                    "list": [],
-                    "foot": ""
+                    "head": "Following up on your commitment, you can apply this strategy:",
+                    "list": [
+                        "Start cooperative. Show, that you are trustworthy by living up to what you committed.",
+                        "When exploited once, respond. If the other party does not keep its commitment, don’t hesitate to talk about it.",
+                        "Come around. Give the other party a second chance to cooperate.",
+                        "Be predictable. Always follow the rules above."
+                    ],
+                    "foot": "There might be occasions, where mutual cooperation simply doesn´t work out – well, it was worth trying. Playing a fair game as described will help you shape the relationships that work!"
                 }
             }
         ]

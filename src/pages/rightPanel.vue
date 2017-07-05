@@ -22,7 +22,7 @@
     export default {
         data() {
             return {
-                title: "Practice your ask",
+                title: "Practice your Ask",
                 menuItems: ["Home", "Role play", "Dry run", "Games", "Share", "Chat"],
             }
         },

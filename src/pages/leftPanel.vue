@@ -22,8 +22,8 @@
     export default {
         data() {
             return {
-            title: "Learn to ask",
-                menuItems: ["Get started", "What is an ask", "Technique cards" , "Why, how, who, when", "",
+            title: "Learn to Ask",
+                menuItems: ["What's an Ask", "Get started", "Technique cards" , "Why, how, who, when", "",
                     "On effectuation", "What others say",
                     "Share your thoughts", "", "About"]
             }

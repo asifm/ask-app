@@ -36,23 +36,26 @@
             <!--Top level techiniques with sub-level exposed through accordion toggle-->
             <techniques-top></techniques-top>
 
-            <f7-fab-speed-dial>
-              <!-- Actions -->
-              <f7-fab-actions>
-                <f7-fab-action v-for="actionIcon in actionIcons" :key="uniqueId(actionIcon)">
-                <i class="material-icons" >{{ actionIcon }}</i>
-                </f7-fab-action>
-              </f7-fab-actions>
-              <!-- FAB -->
-              <f7-fab>
-                <!-- First icon to open Actions -->
-                <f7-icon icon="icon-plus"></f7-icon>
-                <!-- Second icon to close Actions -->
-                <f7-icon icon="icon-close"></f7-icon>
-              </f7-fab>
-            </f7-fab-speed-dial>
+
           </f7-page>
         </f7-pages>
+
+        <f7-fab-speed-dial>
+          <!-- Actions -->
+          <f7-fab-actions>
+            <f7-fab-action v-for="actionIcon in actionIcons" :key="uniqueId(actionIcon)">
+              <i class="material-icons">{{ actionIcon }}</i>
+            </f7-fab-action>
+          </f7-fab-actions>
+          <!-- FAB -->
+          <f7-fab>
+            <!-- First icon to open Actions -->
+            <f7-icon icon="icon-plus"></f7-icon>
+            <!-- Second icon to close Actions -->
+            <f7-icon icon="icon-close"></f7-icon>
+          </f7-fab>
+        </f7-fab-speed-dial>
+
       </f7-view>
     </f7-views>
 
@@ -87,7 +90,7 @@
           "person_add",
           "people"
         ],
-        
+
       }
     },
     components: {

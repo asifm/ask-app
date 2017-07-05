@@ -1,6 +1,6 @@
 <template>
     <div>
-
+            <f7-searchbar cancel-link="Cancel" placeholder="Search" :clear-button="true" id="search"></f7-searchbar>
         <f7-block>
             <f7-block>
                 <f7-grid>
@@ -35,6 +35,10 @@
                 </f7-accordion-item>
             </f7-accordion>
         </f7-block>
+
+        <!--test-->
+
+        <!--test ends-->
 
     </div>
 </template>
@@ -71,6 +75,19 @@
 </script>
 
 <style scoped>
+    .searchbar {
+        /*background-color: white;*/
+    }
+/*
+    .searchbar-input {
+        color: black;
+    }*/
+
+    #search {
+        color: black;
+        /*background-color: white;*/
+    }
+
     .card-header {
         font-weight: bold;
         font-size: 1.4em;
